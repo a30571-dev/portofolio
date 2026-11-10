@@ -1,75 +1,84 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=5CF2C2&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Kapish+Kumar+%F0%9F%91%8B;Developer+%7C+Cybersecurity+Enthusiast;Learning%2C+building%2C+and+leveling+up+%F0%9F%9A%80" alt="Typing introduction" />
+# 👋 Hey, I'm Kapish Kumar
 
-### Curious mind. Creative builder. Always learning.
+### `Developer` · `Cybersecurity enthusiast` · `Curious builder`
 
-[![GitHub](https://img.shields.io/badge/GitHub-a30571--dev-181717?style=for-the-badge&logo=github)](https://github.com/a30571-dev)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Programming-5CF2C2?style=for-the-badge)
+<p>
+  <a href="https://github.com/a30571-dev"><img src="https://img.shields.io/badge/GitHub-a30571--dev-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Programming-7C3AED?style=for-the-badge" alt="Cybersecurity and programming" />
+  <img src="https://img.shields.io/badge/Always-Learning-06B6D4?style=for-the-badge" alt="Always learning" />
+</p>
+
+<!-- Optional animated heading; the title above remains visible if this external image is unavailable. -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=5CF2C2&center=true&vCenter=true&width=650&lines=I+love+building+with+code.;Exploring+cybersecurity+and+software.;Learn.+Build.+Improve." alt="I love building with code; exploring cybersecurity and software" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-Hi, I'm **Kapish Kumar**, a **16-year-old** programmer who loves **cybersecurity** and **building things with code**. I enjoy exploring new technologies, learning by making projects, and improving a little with every experiment.
+I'm **Kapish Kumar**, a **16-year-old** developer who loves **cybersecurity and programming**. I like learning how technology works, building projects, and picking up new skills by experimenting.
 
 - 🔐 Interested in cybersecurity and secure development
-- 💻 Enjoy programming, web development, bots, and automation
-- 🌱 Always learning and looking for my next project
+- 🛠️ I enjoy making bots, web apps, and software projects
+- 🌱 Currently learning and expanding my toolkit
+- 🤝 Open to learning with other developers and collaborating on fun projects
 
-## 🧰 Languages & Tools
+## 🧩 Skills & Technologies
 
-<div align="center">
+**Languages and web fundamentals**
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua%20%7C%20Roblox-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua%20(Roblox)-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
+**Frameworks, platforms, and tools I've used or explored**
 
-## 🚀 Projects
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-333333?style=flat-square&logo=openssh&logoColor=white)
+
+## 🚀 Project Highlight
 
 ### Discord Bot & Dashboard
 
-One of my projects is a **Discord bot with a web dashboard**. The project explores connecting a bot to a web app, managing data, and building useful backend features.
+A Discord bot paired with a web dashboard—an opportunity to explore bot development, web interfaces, backend routes, and data storage together.
 
-**Technologies used / explored:**
+**Technologies used or explored:** Next.js route handlers, Node.js, discord.js, PostgreSQL, Supabase, MongoDB, Mongoose, Redis, BullMQ, Stripe, and SSH.
 
-- **App & bot:** Next.js, route handlers, Node.js, discord.js
-- **Data:** PostgreSQL, Supabase, MongoDB, Mongoose
-- **Jobs & caching:** Redis, BullMQ
-- **Other tools:** Stripe, SSH
+> Project details and technologies may evolve as I continue building and learning.
 
-I also enjoy making smaller experiments with Roblox Lua, web technologies, Python, C#, and C++.
-
-## 🌱 What I'm Exploring
+## 🔭 What I'm Exploring
 
 - Building full-stack applications and backend services
-- Learning cybersecurity concepts and secure coding
-- Creating practical tools and fun projects
-- Trying new frameworks and technologies through hands-on work
+- Learning cybersecurity fundamentals and secure coding practices
+- Making useful automations and creative projects
+- Improving my skills through hands-on practice
 
-## 📊 GitHub
+## 🌐 Find Me
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=a30571-dev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Kapish's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a30571-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-
-</div>
+The best place to see what I'm working on is my [GitHub profile](https://github.com/a30571-dev). Feel free to explore my repositories!
 
 ---
 
 <div align="center">
 
-### 💡 Learn something. Build something. Repeat.
+### ✨ Learn something. Build something. Repeat.
 
-Thanks for stopping by! ✨
+<sub>Thanks for visiting my profile!</sub>
 
 </div>
