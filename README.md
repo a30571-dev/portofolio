@@ -1,107 +1,114 @@
-# 👋 Kapish Kumar
+<div align="center">
 
-### Cybersecurity Enthusiast • Developer • Learner
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4F46E5,100:06B6D4&height=220&section=header&text=KAPISH%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" alt="Animated banner: Kapish Kumar — Developer and Cybersecurity Enthusiast" />
 
-<p align="center">
-  <a href="https://github.com/a30571-dev"><img src="https://img.shields.io/badge/GitHub-a30571--dev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Programming-7C3AED?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Age-16-06B6D4?style=for-the-badge" alt="Age" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=I+build+things+with+code+%F0%9F%9A%80;Exploring+cybersecurity+%F0%9F%94%90;Learning.+Building.+Improving.+%E2%9C%A8">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=I+build+things+with+code+%F0%9F%9A%80;Exploring+cybersecurity+%F0%9F%94%90;Learning.+Building.+Improving.+%E2%9C%A8" alt="Animated typing text: I build things with code, explore cybersecurity, and keep learning" />
+</a>
+
+<p>
+  <a href="https://github.com/a30571-dev"><img src="https://img.shields.io/badge/GitHub-a30571--dev-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Status-Always%20learning-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning" />
 </p>
 
-I’m **Kapish Kumar**, a **16-year-old** programmer who loves **cybersecurity** and building cool things with code.
-
-I enjoy learning by doing, experimenting with new technologies, and turning ideas into real projects.
+</div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- Age: **16**
-- Passion: **Cybersecurity** and **Programming**
-- Interests: secure systems, web development, bots, automation, and creative coding
-- Learning mindset: always improving, testing, and building
+Hey! I'm **Kapish Kumar**, a **16-year-old developer** who loves **cybersecurity and programming**. I like learning how technology works, building projects, and turning new ideas into working software.
 
-I’ve learned and explored:
+- 🔐 Exploring cybersecurity and secure development
+- 🛠️ Building bots, web apps, and software projects
+- 🎮 Experimenting with Lua scripting for Roblox
+- 🌱 Learning by making things and improving each project
 
-- C#
-- C++
-- Python
-- JavaScript
-- Lua (Roblox)
-- HTML
-- CSS
-- JS
+## 🧰 Languages & Tools
+
+**Languages and web fundamentals**
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua%20(Roblox)-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks, databases, and tools I've used or explored**
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=openssh&logoColor=white)
+
+## 🚀 Project Spotlight
+
+### Discord Bot & Dashboard
+
+A Discord bot paired with a web dashboard. This project brings together bot features, web routes, databases, background jobs, and payment tooling.
+
+**Stack used or explored:** Next.js route handlers · Node.js · discord.js · PostgreSQL · Supabase · MongoDB · Mongoose · Redis · BullMQ · Stripe · SSH
+
+> I'm continuing to learn and improve this project as I explore more of the stack.
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+  <a href="https://github.com/a30571-dev">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=a30571-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" alt="Kapish's GitHub stats" />
+  </a>
+  <a href="https://github.com/a30571-dev?tab=repositories">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a30571-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&cache_seconds=86400" alt="Most used languages in Kapish's public repositories" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/a30571-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a30571-dev&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak for a30571-dev" />
+  </a>
+</div>
+
+<sub>Stats images are generated by external services and may occasionally be delayed or temporarily unavailable. The cards link directly to my GitHub profile and repositories.</sub>
+
+## 🐍 Contribution Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a30571-dev/portofolio/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a30571-dev/portofolio/output/github-snake.svg" />
+    <img alt="Animated snake moving through Kapish's GitHub contribution graph" src="https://raw.githubusercontent.com/a30571-dev/portofolio/output/github-snake.svg" />
+  </picture>
+</div>
+
+*The contribution animation is generated by this repository's GitHub Actions workflow. It appears after the workflow runs successfully for the first time.*
+
+## 🌱 What I'm Exploring
+
+- Full-stack applications and backend services
+- Cybersecurity fundamentals and secure coding
+- Useful automations and creative projects
+- New tools and frameworks through hands-on practice
 
 ---
 
-## 🧩 Skills
+<div align="center">
 
-### Languages
+### ✨ Learn something. Build something. Repeat.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-Roblox-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<a href="https://github.com/a30571-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20projects-View%20repositories-4F46E5?style=for-the-badge&logo=github" alt="Explore my repositories" /></a>
 
-### Tech Stack
+<sub>Thanks for visiting my profile! 👾</sub>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF6B35?style=flat-square)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white)
+</div>
 
----
-
-## 🚀 Projects
-
-### Discord bot with dashboard
-
-I’ve built a project involving a **Discord bot** with a **dashboard** using:
-
-- Next.js
-- Route handling
-- Node.js
-- discord.js
-- PostgreSQL
-- Supabase
-- MongoDB
-- Redis
-- Mongoose
-- BullMQ
-- SSH
-- Stripe
-
-This project combines **bot logic**, **web interfaces**, **database management**, and backend tools into one setup.
-
-I also like making smaller projects and experiments with Roblox Lua, web development, Python, C++, and C#.
-
----
-
-## 🌱 What I’m Working On
-
-- Learning more about cybersecurity and secure systems
-- Building stronger backend and full-stack projects
-- Improving my coding skills with real-world projects
-- Exploring new tools and frameworks through practice
-
----
-
-## 📌 Final Note
-
-I’m still growing as a developer, but I’m always learning, building, and improving.
-
-> Learn something. Build something. Repeat.
-
-<a href="https://github.com/a30571-dev">
-  <img src="https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:111827&height=110&section=footer" alt="Decorative animated footer" />
